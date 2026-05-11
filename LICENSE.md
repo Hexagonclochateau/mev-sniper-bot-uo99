@@ -1,4 +1,4 @@
-# 
+# smart Liquidity Bot for MEV sniper bot | liquidity-pool-analysis & trailing-stop is the best MEV sniper bot, featuring liquidity-pool-analysis and trailing-stop. Fast, smart, and
 
 
 
